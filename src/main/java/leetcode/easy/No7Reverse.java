@@ -1,9 +1,7 @@
 package leetcode.easy;
 
-import Common.PrintHelper;
 import org.assertj.core.util.Lists;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /* No.7 整数反转
@@ -12,7 +10,7 @@ import java.util.List;
 假设环境不允许存储 64 位整数（有符号或无符号）。
 
  */
-public class Reverse {
+public class No7Reverse {
 
     @org.junit.Test
     public void test() {

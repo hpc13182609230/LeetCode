@@ -27,7 +27,7 @@ import org.junit.Test;
 -109 <= target <= 109
 只会存在一个有效答案
  */
-public class TwoSum {
+public class No1TwoSum {
     @Test
     public void test() {
         int[] input = {2, 7, 11, 15};
